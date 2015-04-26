@@ -1,0 +1,6 @@
+On my mac a used a python-based BF interpreter called mindfuck.
+
+For development and debugging, I made use of the Brainfuck visualizer at http://fatiherikli.github.io/brainfuck-visualizer/
+
+I also seem to have installed esco (universal esoteric compiler) in ~/Documents/bin/esco
+but I can't remember if i got it  running or how to use it. Note to self, next time don't wait a year before writing a README
